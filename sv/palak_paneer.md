@@ -1,3 +1,8 @@
+---
+title: Palak Paneer
+description: Indisk spenatgryta
+---
+
 # Ingredienser 
 - 1st gullök
 - 4st vitlöksklyftor

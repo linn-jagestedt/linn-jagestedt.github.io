@@ -1,3 +1,8 @@
+---
+title: Kimchi
+description: Koreanska fermenterade grönsaker
+---
+
 # Ingredienser 
 - Grovsalt
 - 3kg salladskål
