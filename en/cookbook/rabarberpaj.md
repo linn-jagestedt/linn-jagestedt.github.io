@@ -1,4 +1,4 @@
-# Rabarberpaj (Ruhbarbpie)
+# Rabarberpaj (Ruhbarb pie)
 
 ## Ingredients 
 
