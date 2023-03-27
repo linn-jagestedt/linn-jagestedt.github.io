@@ -1,4 +1,0 @@
-- [kimchi](https://linn-jagestedt.github.io/Cookbook/kimchi)
-- [kladdkaka](https://linn-jagestedt.github.io/Cookbook/kladdkaka)
-- [palak paneer](https://linn-jagestedt.github.io/Cookbook/palak_paneer)
-- [rabarberpaj](https://linn-jagestedt.github.io/Cookbook/rabarberpaj)
