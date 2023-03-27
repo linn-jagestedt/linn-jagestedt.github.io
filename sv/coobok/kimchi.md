@@ -31,6 +31,6 @@
 6. Förvara burkarna rumstempererat i 3 - 7 dagar. Se till att öppna locken regelbundet för att släppa ut koldioxid eller låt locket stå på glänt.
    
 ## Kommentarer
-- Kimchi går att fermentera olika länge beroende vilket syrlighet man är ute efter, ju längre Kimchi får stå rumstemprerat desto surare blir den. I kylen bromsas fermenteringsprocessen.
+- Ju längre Kimchi får stå rumstemprerat desto surare blir den. Syrligheten går därmed att kontrollera genoma att stoppa in kimchin och bromsa fermenteringen.
 - Sockret är till för att starta igång fermenteringsprocessen och bidrar inte med sötma.
 - Utöver vårlök, vitlök och ingefära går både görnsakerna och krydningen att variera efter behag.
