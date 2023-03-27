@@ -1,6 +1,4 @@
-# Palak Paneer
-
-## Ingredienser 
+# Ingredienser 
 - 1st gullök
 - 4st vitlöksklyftor
 - 1st habanero

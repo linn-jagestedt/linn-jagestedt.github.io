@@ -1,9 +1,7 @@
-# Kimchi
+# Ingredients 
 
-## Ingredients 
+# Preperations
 
-## Preperations
-
-## Recipe
+# Recipe
    
-## Comments
+# Comments

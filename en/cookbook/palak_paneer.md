@@ -1,9 +1,7 @@
-# Palak Paneer
+# Ingredients 
 
-## Ingredients 
+# Preperations
 
-## Preperations
-
-## Recipe
+# Recipe
    
-## Comments
+# Comments

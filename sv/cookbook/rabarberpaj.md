@@ -1,9 +1,7 @@
-# Rabarberpaj
+# Ingredienser 
 
-## Ingredienser 
+# Förberedelser
 
-## Förberedelser
-
-## Recept
+# Recept
    
-## Kommentarer
+# Kommentarer

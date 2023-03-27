@@ -1,9 +1,7 @@
-# Rabarberpaj (Ruhbarb pie)
+# Ingredients 
 
-## Ingredients 
+# Preperations
 
-## Preperations
-
-## Recipe
+# Recipe
    
-## Comments
+# Comments
