@@ -6,19 +6,21 @@ description: A collection of random recipes i like
 
 # Dishes
 ## - Palak Paneer [Svenska](/sv/palak_paneer) | [English](/en/palak_paneer)
-## - Grönkålssoppa [Svenska](https://linn-jagestedt.github.io/sv/cookbook/grönkålssoppa) | [English](https://linn-jagestedt.github.io/en/grönkålssoppa)
-## - Rotfrukter i ugn [Svenska](https://linn-jagestedt.github.io/sv/cookbook/rotfrukter_i_ugn) | [English](https://linn-jagestedt.github.io/en/rotfrukter_i_ugn)
-## - Pytt i panna [Svenska](https://linn-jagestedt.github.io/sv/cookbook/pytt_i_panna) | [English](https://linn-jagestedt.github.io/en/pytt_i_panna)
-## - Rödbetsbiffar [Svenska](https://linn-jagestedt.github.io/sv/cookbook/rödbetsbiffar) | [English](https://linn-jagestedt.github.io/en/rödbetsbiffar)
-## - Raggmunk [Svenska](https://linn-jagestedt.github.io/sv/cookbook/raggmunk) | [English](https://linn-jagestedt.github.io/en/raggmunk)
+## - Grönkålssoppa [Svenska](/sv/grönkålssoppa) | [English](/en/grönkålssoppa)
+## - Rotfrukter i ugn [Svenska](/sv/rotfrukter_i_ugn) | [English](/en/rotfrukter_i_ugn)
+## - Pytt i panna [Svenska](/sv/pytt_i_panna) | [English](/en/pytt_i_panna)
+## - Rödbetsbiffar [Svenska](/sv/rödbetsbiffar) | [English](/en/rödbetsbiffar)
+## - Raggmunk [Svenska](/sv/raggmunk) | [English](/en/raggmunk)
+## - Rödbetssoppa [Svenska](/sv/rödbetssoppa) | [English](/en/rödbetssoppa)
 
 # Deserts
-## - Kladdkaka [Svenska](https://linn-jagestedt.github.io/sv/cookbook/kladdkaka) | [English](https://linn-jagestedt.github.io/en/kladdkaka)
-## - Rabarberpaj [Svenska](https://linn-jagestedt.github.io/sv/cookbook/rabarberpaj) | [English](https://linn-jagestedt.github.io/en/rabarberpaj)
-## - Äppelpaj [Svenska](https://linn-jagestedt.github.io/sv/cookbook/äppelpaj) | [English](https://linn-jagestedt.github.io/en/äppelpaj)
-## - Chokladbollar [Svenska](https://linn-jagestedt.github.io/sv/cookbook/äppelpaj) | [English](https://linn-jagestedt.github.io/en/äppelpaj)
+## - Kladdkaka [Svenska](/sv/kladdkaka) | [English](/en/kladdkaka)
+## - Rabarberpaj [Svenska](/sv/rabarberpaj) | [English](/en/rabarberpaj)
+## - Äppelpaj [Svenska](/sv/äppelpaj) | [English](/en/äppelpaj)
+## - Chokladbollar [Svenska](/sv/chokladbollar) | [English](/en/chokladbollar)
+## - Princesstårta [Svenska](/sv/princesstårta) | [English](/en/princesstårta)
 
 # Others
-## - Kimchi [Svenska](https://linn-jagestedt.github.io/sv/kimchi) | [English](https://linn-jagestedt.github.io/en/kimchi)
-## - Naan bröd [Svenska](https://linn-jagestedt.github.io/sv/cookbook/naan_bröd) | [English](https://linn-jagestedt.github.io/en/naan_bröd)
-## - Inlagda Rödbetor [Svenska](https://linn-jagestedt.github.io/sv/cookbook/inlagda_rödbetor) | [English](https://linn-jagestedt.github.io/en/inlagda_rödbetor)
+## - Kimchi [Svenska](/sv/kimchi) | [English](/en/kimchi)
+## - Naan bröd [Svenska](/sv/naan_bröd) | [English](/en/naan_bröd)
+## - Inlagda Rödbetor [Svenska](/sv/inlagda_rödbetor) | [English](/en/inlagda_rödbetor)
